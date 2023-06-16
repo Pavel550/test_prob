@@ -1,0 +1,42 @@
+h1 {
+    font-weight: normal;
+    font-size: 70px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    display:block;
+    margin-top: 85px;
+}
+button {
+    color: #fff;
+        background-color: #fb565a;
+        font-size: 16px;
+        text-decoration: none;
+        text-transform: uppercase;
+        padding: 15px 20px;
+        display: inline-block;
+}
+
+
+body{
+    background-color: mediumspringgreen;
+}
+ button {
+    color: mediumspringgreen;
+    background-color: blue;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    display: block;
+     margin-top: 45px;
+}
+ 
+p{
+    color: blue;
+    font-size:30px ;
+}
+ 
+
+ 
+ 
